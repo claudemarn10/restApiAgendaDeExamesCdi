@@ -1,0 +1,23 @@
+{
+  "name": "restApiAgendaDeExamesCdi",
+  "version": "1.0.0",
+  "description": "rest Api Agenda De Exames Cdi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudemarn10/restApiAgendaDeExamesCdi.git"
+  },
+  "keywords": [],
+  "author": "Claudemar Nominato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudemarn10/restApiAgendaDeExamesCdi/issues"
+  },
+  "homepage": "https://github.com/claudemarn10/restApiAgendaDeExamesCdi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
